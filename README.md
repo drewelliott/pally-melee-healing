@@ -32,7 +32,7 @@ For an honorable mention, there is a small smart-heal that comes from using `Hol
 
 ### Melee Healing Summary
 
-When I first read the changes for Holy Paladins in 1.17.2, I imagined myself as being able to just run into the fray and start doing damage and healing everyone around me in a frenzied explosion of holy love.
+When I first read the [changes](https://forum.turtle-wow.org/viewtopic.php?p=102974#p102969) for Holy Paladins in 1.17.2, I imagined myself as being able to just run into the fray and start doing damage and healing everyone around me in a frenzied explosion of holy love.
 
 When the patch was released I immediately began testing various talents and playstyles to be able to achieve this dream.
 
@@ -45,7 +45,7 @@ There are many situations where it just makes more sense to heal the way we have
 Generally, for **trash mobs/adds** that will die fairly quickly, it doesn't make sense to try to go full melee. 
 
 Mobs that die quickly are a great place to refresh `Holy Judgement` by judging any mob you can easily reach. As for the seal of choice, it will probably be `Seal of Light` since your ret or prot paladins will likely be judging wisdom. 
-> I do not know if `Seal of Light` benefits from your +healing or not, but at the least it will be credited to you as the healer
+> I do not know if `Seal of Light` benefits from your +healing or not, but at the least its healing will be credited to you as the healer
 
 If a mob is close to you and you are able to `Crusader Strike`, do it, but try to do it after putting `Holy Shock` on cd. `Crusader Strike` will reset the cd on `Holy Shock` as well as giving you a stack of `Zeal`.
 > It is easy to fall into the trap of chasing mobs just to `Crusader Strike` them to try to keep `Zeal` stacks up, but it is usually not worth it - use self-control!
