@@ -26,6 +26,9 @@ Let's take a look at the talents and buffs and how they work together to make th
 
 For an honorable mention, there is a small smart-heal that comes from using `Holy Strike`, but honestly I have found that I never have a good time to use it in raid. It is very nice in solo content, however. 
 
+[My current talents](https://talents.turtle-wow.org/paladin?points=AoaAYQFQpAYoBAAAAAAAAAAAAAAAFoQAACAAAAAAAAA%3D)
+
+![talents](images/talent-tree.png)
 
 ### Melee Healing Summary
 
@@ -49,7 +52,7 @@ If a mob is close to you and you are able to `Crusader Strike`, do it, but try t
 
 In the case of mobs that constantly fear or stun in melee range, it is generally best to just stay at max range and spam `Flash of Light` - you might be able to work `Crusader Strike` and `Judgement of Light` in to keep `Zeal` and `Holy Judgement` up - but do not do it if you are going to be stunned or feared when you could have avoided the mechanic by being at range.
 
-The best case scenario is any mobs that is "melee-friendly" and will live long enough to make it worthwhile. 
+The best case scenario is any mob that is "melee-friendly" and will live long enough to make it worthwhile. 
 
 In this case, you will want to start the engagement with `Seal of Light` and `Holy Judgement` already up.
 
