@@ -59,7 +59,7 @@ In this case, you will want to start the engagement with `Seal of Light` and `Ho
 While the tank runs in, cast `Holy Shock` on them.
 > `Holy Shock` has the highest chance to crit and you can use it while positioning since it is instant cast. If the `Holy Shock` crits, you will place `Daybreak` on the tank, which is a big boon for you and any other Holy Paladins who are healing the tank, not to mention it gives the tank an additional 5% HP.
 
-Now, you have to access the situation - it could be (and it happens quite often) that `Holy Shock` reset and you can cast it again - look for anyone else who needs a heal or just cast it on the tank again - if it didn't crit the first time, maybe it will this time.
+Now, you have to assess the situation - it could be (and it happens quite often) that `Holy Shock` reset and you can cast it again - look for anyone else who needs a heal or just cast it on the tank again - if it didn't crit the first time, maybe it will this time.
 
 Next you should be close enough to get a `Crusader Strike` on the mob. 
 
