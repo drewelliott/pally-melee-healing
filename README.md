@@ -9,6 +9,8 @@ This guide is primarily focused for raiding Holy Paladins on [Turtle Wow](https:
 - Keep a seal up, so that you can judge whenever needed.
 - `Holy Shock` whenever it is ready
 - `Crusader Strike` to reset `Holy Shock` and stack `Zeal`
+- `Holy Light` with `Holy Judgement` for large emergency heals
+- `Flash of Light` if nothing else 
 
 ### Talents and Buffs
 
